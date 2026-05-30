@@ -1,0 +1,3 @@
+Hallo, hoe gaat het met jou?
+Ik leer Python.
+Dit project gebruikt kunstmatige intelligentie.
